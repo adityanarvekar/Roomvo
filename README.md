@@ -8,6 +8,7 @@
 ![alt text](Launch-Screen.png)
 
 ## Figma Link
+https://www.figma.com/file/NotpOMCvtLGrnVNxrdCS7d/Roomvo?type=design&node-id=0%3A1&mode=design&t=yFdGPTyedZbwev31-1
 https://www.figma.com/file/NotpOMCvtLGrnVNxrdCS7d/Roomvo?type=design&node-id=3%3A20&mode=design&t=N3j5jzJ1lYHfxOKw-1
 
 ### Icons downloaded from https://www.flaticon.com/free-icons/
